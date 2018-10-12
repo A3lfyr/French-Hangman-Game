@@ -3,7 +3,7 @@
 The simple game of Hangman in a shell script.
 Resulting from a school duty I programmed this little game with a small interface ascii having two game modes: easy and difficult.
 
-Fonctionnement :
+Working :
 1. A line is drawn at random from a list.txt file containing a part of the French dictionary.
 2. When displaying the word, the letters are replaced by underscores,
 3. step by step the user is invited to write letters that will be displayed instead of the underscore if they are present in the chosen word
